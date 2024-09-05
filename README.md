@@ -178,21 +178,3 @@ docker run -d --name java-container java-app
 #### Customization
 
 - Copy your JAR file into the `java-app/target/` directory and modify the `Dockerfile` to point to it.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-```
-
----
-
-### Key Features of this README:
-
-1. **Clear Structure**: Sections like "Project Overview", "Getting Started", and specific instructions for each Docker image ensure users can navigate easily.
-2. **Commands in Code Blocks**: All commands are clearly presented in code blocks, making it easy for users to follow along.
-3. **Customization Instructions**: Each Dockerfile has a section for customization, so users know where to modify code.
-4. **Consistency**: Each section follows a similar pattern for clarity.
-5. **Professional Language**: The language is concise, clear, and to the point, with appropriate technical details.
