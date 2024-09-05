@@ -1,6 +1,3 @@
-###`README.md`:
-
-```markdown
 # Multi-Environment Docker Project
 
 This repository contains Docker images for various development environments, including Python, Node.js, MySQL, NGINX, and Java. Each directory holds a `Dockerfile` that can be used to build and run a container tailored to the respective technology stack.
