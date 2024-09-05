@@ -1,0 +1,7 @@
+# MySQL Dockerfile
+FROM mysql:8.0
+
+ENV MYSQL_DATABASE=mydb
+ENV MYSQL_ROOT_PASSWORD=my-secret-pw
+
+EXPOSE 3306
